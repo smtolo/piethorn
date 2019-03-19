@@ -1,9 +1,0 @@
-setup.py
-mypackage/__init__.py
-mypackage/recursion.py
-mypackage/sorting.py
-piethorn.egg-info/PKG-INFO
-piethorn.egg-info/SOURCES.txt
-piethorn.egg-info/dependency_links.txt
-piethorn.egg-info/requires.txt
-piethorn.egg-info/top_level.txt
