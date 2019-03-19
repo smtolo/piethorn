@@ -29,7 +29,7 @@ def    factorial(n):
     e.g factorial(6) == 720
     '''
     if n == 0 or n == 1:
-        return n
+        return 1
     else:
         return factorial(n - 1) * n
 
